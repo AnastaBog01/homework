@@ -1,0 +1,25 @@
+
+body{
+    background-color: cadetblue;
+}
+header{
+  background-color: brown;
+  text-align: center;
+}
+
+section{
+  background-color: aquamarine;
+  text-align: center;
+}
+
+footer{
+  background-color: cornsilk;
+  text-align: right;
+}
+a{
+  color: chartreuse;
+  margin: 30px;
+}
+a:hover{
+  color: blueviolet;
+}
